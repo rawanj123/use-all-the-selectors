@@ -38,3 +38,11 @@ nav ul {
 .dfn > p + strong {
   color: #fff;
 }
+
+a {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color: inherit;
+}
