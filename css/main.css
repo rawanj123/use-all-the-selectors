@@ -19,16 +19,16 @@ nav ul {
 }
 
 #contents {
-  background-color: #93a1a1;
+  color: #93a1a1;
 }
 #favs {
-  background-color: #93a1a1;
+  color: #93a1a1;
 }
 #facts {
-  background-color: #93a1a1;
+  color: #93a1a1;
 }
 #types {
-  background-color: #93a1a1;
+  color: #93a1a1;
 }
 
 .wrapper > .dfn {
@@ -45,4 +45,16 @@ a {
 
 .no-highlight {
   background-color: inherit;
+}
+
+[rel="external"] {
+  background-color: #2694d8;
+}
+
+ol li:first-of-type {
+  color: #719e47;
+}
+
+ol li:last-of-type {
+  color: #2aa198;
 }
